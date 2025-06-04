@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Shashank Vaddadi
 
-<!--
-**iShashank04/iShashank04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science grad passionate about building  web apps, integrating AI/ML features, and working with scalable cloud technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Next.js
+- **Backend:** Flask (Python), Node.js
+- **Database:**  MySQL
+- **DevOps & Tools:** Azure (Serverless), Docker, GitHub, Postman
+- **Learning:** Kubernetes, QA Automation
+
+---
+
+📫 **Let’s Connect!**  
+📧 vaddadishashank@gmail.com  
+🌍 [LinkedIn](https://www.linkedin.com/in/shashankvaddadi19/)
