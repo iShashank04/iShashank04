@@ -8,8 +8,8 @@
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Next.js
 - **Backend:** Flask (Python), Node.js
 - **Database:**  MySQL
-- **DevOps & Tools:** Azure (Serverless), Docker, GitHub, Postman
-- **Learning:** Kubernetes, QA Automation
+- **Tools:** Azure (Serverless), GitHub, Postman
+- **Learning:** Kubernetes, Docker
 
 ---
 
